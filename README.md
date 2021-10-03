@@ -79,6 +79,3 @@ MyHomeSheff 클래스 - main
 
 `ArrayList<String> exhaustFood(String food)`
 - refrigerator 삭제 함수
-
-
-
